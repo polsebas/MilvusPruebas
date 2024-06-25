@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - milvus
+    volumes:
+      - ./appdata:/app/data
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__VectorDb=Host=milvus;Port=19530;Database=milvus;User Id=;Password=;
+
+  milvus:
+    image: milvusdb/milvus:latest
+    ports:
+      - "19530:19530"
+    volumes:
+      - ./vector_db_data:/var/lib/milvus
+
+volumes:
+  vector_db_data:

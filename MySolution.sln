@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E85F63DE-2C72-4B5A-A872-65EF11392626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVectorLib", "src\MyVectorLib\MyVectorLib.csproj", "{73B37F5A-9C2E-4A42-9868-10787D41CBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVectorApp", "src\MyVectorApp\MyVectorApp.csproj", "{DABF423A-DFF9-4793-A800-30E087AE0AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B37F5A-9C2E-4A42-9868-10787D41CBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B37F5A-9C2E-4A42-9868-10787D41CBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B37F5A-9C2E-4A42-9868-10787D41CBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B37F5A-9C2E-4A42-9868-10787D41CBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABF423A-DFF9-4793-A800-30E087AE0AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABF423A-DFF9-4793-A800-30E087AE0AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABF423A-DFF9-4793-A800-30E087AE0AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABF423A-DFF9-4793-A800-30E087AE0AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73B37F5A-9C2E-4A42-9868-10787D41CBC7} = {E85F63DE-2C72-4B5A-A872-65EF11392626}
+		{DABF423A-DFF9-4793-A800-30E087AE0AC9} = {E85F63DE-2C72-4B5A-A872-65EF11392626}
+	EndGlobalSection
+EndGlobal

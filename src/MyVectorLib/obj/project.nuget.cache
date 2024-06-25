@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ix2HQ003qR8=",
+  "success": true,
+  "projectFilePath": "/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/MyVectorLib.csproj",
+  "expectedPackageFiles": [
+    "/home/pablo/.nuget/packages/google.protobuf/3.25.3/google.protobuf.3.25.3.nupkg.sha512",
+    "/home/pablo/.nuget/packages/grpc.core.api/2.61.0/grpc.core.api.2.61.0.nupkg.sha512",
+    "/home/pablo/.nuget/packages/grpc.net.client/2.61.0/grpc.net.client.2.61.0.nupkg.sha512",
+    "/home/pablo/.nuget/packages/grpc.net.common/2.61.0/grpc.net.common.2.61.0.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.configuration/9.0.0-preview.5.24306.7/microsoft.extensions.configuration.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.5.24306.7/microsoft.extensions.configuration.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0-preview.5.24306.7/microsoft.extensions.configuration.fileextensions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.configuration.json/9.0.0-preview.5.24306.7/microsoft.extensions.configuration.json.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0-preview.5.24306.7/microsoft.extensions.fileproviders.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0-preview.5.24306.7/microsoft.extensions.fileproviders.physical.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0-preview.5.24306.7/microsoft.extensions.filesystemglobbing.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/pablo/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.5.24306.7/microsoft.extensions.primitives.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/milvus.client/2.3.0-preview.1/milvus.client.2.3.0-preview.1.nupkg.sha512",
+    "/home/pablo/.nuget/packages/system.io.pipelines/9.0.0-preview.5.24306.7/system.io.pipelines.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/system.text.encodings.web/9.0.0-preview.5.24306.7/system.text.encodings.web.9.0.0-preview.5.24306.7.nupkg.sha512",
+    "/home/pablo/.nuget/packages/system.text.json/9.0.0-preview.5.24306.7/system.text.json.9.0.0-preview.5.24306.7.nupkg.sha512"
+  ],
+  "logs": []
+}

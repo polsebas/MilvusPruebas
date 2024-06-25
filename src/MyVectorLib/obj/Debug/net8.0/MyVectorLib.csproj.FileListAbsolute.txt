@@ -1,0 +1,12 @@
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/bin/Debug/net8.0/MyVectorLib.deps.json
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/bin/Debug/net8.0/MyVectorLib.dll
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/bin/Debug/net8.0/MyVectorLib.pdb
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.csproj.AssemblyReference.cache
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.AssemblyInfoInputs.cache
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.AssemblyInfo.cs
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.csproj.CoreCompileInputs.cache
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.dll
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/refint/MyVectorLib.dll
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/MyVectorLib.pdb
+/home/pablo/repos/Milvus-Pablo/src/MyVectorLib/obj/Debug/net8.0/ref/MyVectorLib.dll
